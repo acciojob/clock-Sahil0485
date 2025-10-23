@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+/* Basic styling for the timer */
+#timer {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
